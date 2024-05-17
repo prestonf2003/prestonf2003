@@ -1,7 +1,41 @@
-### Hi there 👋
+# Hi, I'm Preston Fernando! 👋
+
+I am a passionate Software Developer working at UWM, driven by a curiosity for technology and a love for engineering. My journey involves delving into the world of computer science, mentoring co-workers, and sharing my insights with the community.
+
+![prestonf2003's Stats](https://github-readme-stats.vercel.app/api?username=prestonf2003&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+- 🔭 I'm currently working as a software developer at United Wholesale Mortgage
+- 
+
+
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,angular,gcp,docker&perline=3)](https://skillicons.dev)
+,docker
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Navigating through the world of React Router for seamless page transitions.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Building server-side applications with Django, a powerful Python web framework.
+  - Diving into PostgreSQL for efficient and scalable database management.
+
+ ## 🏆 Achievements
+
+- 🌟 Won First in Michigan Jackson Event in 2019 with Team 1481 The Riveters.
+
+
+## 📬 Get in Touch
+
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+
 
 <!--
-**prestonf2003/prestonf2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +48,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
