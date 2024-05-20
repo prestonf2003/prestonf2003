@@ -13,7 +13,6 @@ I am a passionate Software Developer working at UWM, driven by a curiosity for t
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,angular,gcp,docker&perline=3)](https://skillicons.dev)
-,docker
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
