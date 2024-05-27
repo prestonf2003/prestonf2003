@@ -2,16 +2,12 @@
 
 I am a passionate Software Developer working at UWM, driven by a curiosity for technology and a love for engineering. My journey involves delving into the world of computer science, mentoring co-workers, and sharing my insights with the community.
 
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<username>&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=prestonf2003&theme=summer">
-</picture>
+<!--Replace <username> with your own GitHub username.-->
+[(https://pixel-profile.vercel.app/api/github-stats?username=prestonf2003)]
 
 ## 🚀 About Me
 
 - 🔭 I'm currently working as a software developer at United Wholesale Mortgage
-- 
 
 
 
