@@ -2,7 +2,7 @@
 
 I am a passionate Software Developer working at UWM, driven by a curiosity for technology and a love for engineering. My journey involves delving into the world of computer science, mentoring co-workers, and sharing my insights with the community.
 
-![prestonf2003's Stats](https://github-readme-stats.vercel.app/api?username=prestonf2003&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![prestonf2003's Stats][(https://pixel-profile.vercel.app/api/github-stats?username=prestonf2003&screen_effect=true&theme=rainbow)]
 
 ## 🚀 About Me
 
